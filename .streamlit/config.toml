@@ -1,0 +1,6 @@
+Ini, TOML
+
+
+[server]
+maxUploadSize = 500
+enableCORS = false
